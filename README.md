@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Software Engineer at **[@Intuit](https://www.intuit.com/)** based in Bangalore, 🇮🇳 India.
+I'm a Software Engineer at **[@Intuit](https://www.intuit.com/)** based in Bangalore, India.
 
 ## ⚡️ A few Quick Facts
 - 📚 I'm currently reading [Zero to One by Peter Thiel and Blake Masters](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) 
